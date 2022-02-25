@@ -1,0 +1,15 @@
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\bin\Debug\net6.0\OOPToko_Online.exe
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\bin\Debug\net6.0\OOPToko_Online.deps.json
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\bin\Debug\net6.0\OOPToko_Online.runtimeconfig.json
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\bin\Debug\net6.0\OOPToko_Online.dll
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\bin\Debug\net6.0\OOPToko_Online.pdb
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\OOPToko_Online.csproj.AssemblyReference.cache
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\OOPToko_Online.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\OOPToko_Online.AssemblyInfoInputs.cache
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\OOPToko_Online.AssemblyInfo.cs
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\OOPToko_Online.csproj.CoreCompileInputs.cache
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\OOPToko_Online.dll
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\refint\OOPToko_Online.dll
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\OOPToko_Online.pdb
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\OOPToko_Online.genruntimeconfig.cache
+E:\ProjekMetrodata\OOPToko_Online\OOPToko_Online\obj\Debug\net6.0\ref\OOPToko_Online.dll
