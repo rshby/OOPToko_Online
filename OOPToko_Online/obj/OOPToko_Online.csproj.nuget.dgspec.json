@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjekMetrodata\\OOPToko_Online\\OOPToko_Online\\OOPToko_Online.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\Metrodata\\OOPToko_Online\\OOPToko_Online\\OOPToko_Online.csproj": {}
   },
   "projects": {
-    "E:\\ProjekMetrodata\\OOPToko_Online\\OOPToko_Online\\OOPToko_Online.csproj": {
+    "C:\\Users\\ASUS\\Documents\\Metrodata\\OOPToko_Online\\OOPToko_Online\\OOPToko_Online.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjekMetrodata\\OOPToko_Online\\OOPToko_Online\\OOPToko_Online.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Metrodata\\OOPToko_Online\\OOPToko_Online\\OOPToko_Online.csproj",
         "projectName": "OOPToko_Online",
-        "projectPath": "E:\\ProjekMetrodata\\OOPToko_Online\\OOPToko_Online\\OOPToko_Online.csproj",
-        "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjekMetrodata\\OOPToko_Online\\OOPToko_Online\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\Metrodata\\OOPToko_Online\\OOPToko_Online\\OOPToko_Online.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\Metrodata\\OOPToko_Online\\OOPToko_Online\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
